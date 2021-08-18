@@ -6,6 +6,8 @@ public class cipipleineQA {
 		// TODO Auto-generated method stub
 		
 		System.out.println("adding for workflow pipeline");
+		System.out.println("adding for workflow pipeline2");
+
 
 	}
 
